@@ -1,0 +1,16 @@
+{
+  "name": "hatyaibotv2",
+  "version": "1.0.0",
+  "description": "Chatbot version 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.6.0"
+  }
+}
